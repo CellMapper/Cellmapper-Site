@@ -1,3 +1,3 @@
 # Cellmapper Site
 
-Cellmapper Site is not yet Open Source.
+Cellmapper Site code is not Open Source but you can send issue on Issues tab.
